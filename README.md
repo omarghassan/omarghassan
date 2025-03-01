@@ -1,5 +1,4 @@
 # Omar Ghassan Abu Deyak
-### Hi there 👋
 ![GitHub Banner](./assets/banner.png)
 
 ## About Me
